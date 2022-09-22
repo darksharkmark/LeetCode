@@ -31,6 +31,8 @@ int main()
 		auto result = solution.isValid(input);
 		CheckResult(!result);
 	}
+
+	return 0;
 }
 
 void CheckResult(bool statement)
